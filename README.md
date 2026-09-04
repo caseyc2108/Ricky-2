@@ -1,2 +1,2 @@
-# Ricky-2
+# Ricky2
 its pretty self explanitory
